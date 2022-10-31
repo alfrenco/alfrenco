@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Immanuel Yosia Alfrenco</h1>
-<h3 align="center">I am a Data Scientist who is interested in Data Analysis and Machine Learning. I am eager to learn new things about data. I am a responsible, hardworking and competent individual. Have extensive knowledge and strong analytical skills.</h3>
+<h3 align="center">I am a Data Scientist who interested in Data Analytics and Machine Learning. I am eager to learn new things about data. I am a responsible, hardworking and competent individual. Have extensive knowledge and strong analytical skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfrenco&label=Profile%20views&color=0e75b6&style=flat" alt="alfrenco" /> </p>
 
